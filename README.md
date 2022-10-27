@@ -1,5 +1,5 @@
 # Objetivo
-Colaboraçao, entendimento e aprendizagem com ênfase na resolução do problema e não somente na linguagem de programação. Resolver os exercícios da Atividade Avaliativa 1, interpretar, resolver e entender a resolução aplicada do conteúdo da disciplina.
+Colaboração, entendimento e aprendizagem com ênfase na resolução do problema e não somente na linguagem de programação. Resolver os exercícios da Atividade Avaliativa 1, interpretar, resolver e entender a resolução aplicada do conteúdo da disciplina.
 
 # Dupla
 | **Aluno 1** |     -     | **Aluno 2** | 
