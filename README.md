@@ -6,8 +6,8 @@ Resolução dos exercícios da Atividade Avaliativa 1 e aprendizado/prática do 
 |:------:|:------:|:------:|
 |Lucas Jonathan|     -     |Cauana Dias|
 
-<br>
 # Atividade Avaliativa 1 
-![IMG-20221026-WA0018](https://user-images.githubusercontent.com/111617449/198359438-ad493098-f7fd-4302-a7b3-2ff804984800.jpg)
+
+![Atividadeavaliativa1](https://user-images.githubusercontent.com/111617449/198360766-bd419f17-e812-4c36-a110-3128e848f60e.jpg)
 
 
