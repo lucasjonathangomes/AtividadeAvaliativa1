@@ -1,5 +1,6 @@
 #Escreva um unico algoritmo que calcule as seguintes sequencias, fornecendo como saida
 # resultado de H, S e P, dadas as respectivas entradas do usuario (sem utilizar vetor):
+# H, S, P
 n = 0
 resulh = 1
 resuls = 1
