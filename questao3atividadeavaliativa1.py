@@ -12,7 +12,6 @@ paisa = 15000 #pais de ordem A
 paisa2 = 15000 #segunda variavel de pais de ordem A, para evitar conflito na resolução de 23%
 paisb = 45000 #pais de ordem B
 paisc = 65000 #pais de ordem C
-paisc = paisc * 1.025  #percentual de crescimento de pais C
 p23 = paisc * 1.23 #percentual de 23% para comparar com pais A
 anoab = 0 #contador pra mostrar em quantos anos vai levar pra A igualar ou ultrapassar B
 anoac = 0 #contador que vai mostra em quantos anos vai passar A de C em 23%
