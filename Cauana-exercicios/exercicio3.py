@@ -3,7 +3,6 @@ paisA1 = 15000
 paisA2 = 15000
 paisB = 45000
 paisC = 65000
-paisC *= 1.025
 paisC_23 = paisC*1.23
 anoa = 0
 anob = 0
